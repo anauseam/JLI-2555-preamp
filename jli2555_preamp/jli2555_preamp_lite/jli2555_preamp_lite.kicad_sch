@@ -4028,17 +4028,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 156.21 129.54 0)
-		(mirror y)
+		(at 156.21 129.54 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "517025fd-fd94-48b9-bf92-ff82a71fa23a")
 		(property "Reference" "C6"
-			(at 160.02 127.3809 0)
+			(at 160.02 131.6991 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +4045,7 @@
 			)
 		)
 		(property "Value" "470u"
-			(at 160.02 129.9209 0)
+			(at 160.02 129.1591 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4056,7 +4054,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 155.2448 133.35 0)
+			(at 155.2448 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
